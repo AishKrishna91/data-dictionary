@@ -6,5 +6,9 @@ AMR data
 
 These data represent the sort of data that might be obtained from the 2nd generation surveillance system.
 
-* id Integer - A unique identifier for each person 
+* id Integer - A unique identifier for each person
+taken 1 (surgery within last year) 0 (not within last year)
 
+*dob Character- a string giving date of birth
+*spec_date character - a string giving date specimen was taken
+sex_male binary - indicates whether the person from whom specimen was taken was male or not . 1 ( male )  0 ( not male )
